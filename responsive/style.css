@@ -1,0 +1,76 @@
+body{
+  object-fit: cover;
+}
+.circle{
+    width: 100px; 
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(18, 24, 212);
+}
+
+.cont1{
+    
+   margin-left: auto;
+   margin-right: auto;
+ 
+ background-color: rgba(59, 7, 59, 0.452);
+}
+.navbar{
+  background-color: rgb(245, 213, 154);
+}
+.navbtn{
+  margin-left: 55%;
+  float: right;
+}
+.navlink{
+  margin-left: 20%;
+  
+}
+.nav-item{
+  text-transform: capitalize;
+ font-weight: bolder;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.container2{
+
+ background-color: rgb(255, 186, 243);
+ 
+
+}
+p{
+  
+  font-weight: bolder;
+  font-size: 15px;
+  color: rgb(131, 128, 128);
+}
+i{
+  
+  color: rgb(225, 0, 255);
+}
+
+@media screen and (max-width: 780px) {
+  .banner-img {
+ 
+   
+  
+  
+  }
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+/* 
+.a{
+  background-color: rgb(223, 96, 96);
+}
+.b{
+  background-color: rgb(0, 60, 255);
+}
+.c{
+  background-color: rgb(0, 255, 42);
+} */
+
